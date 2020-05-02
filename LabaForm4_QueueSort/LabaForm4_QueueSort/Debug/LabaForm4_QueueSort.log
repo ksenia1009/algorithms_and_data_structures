@@ -1,0 +1,17 @@
+﻿Построение начато 26.12.2017 10:33:32.
+     1>Проект "C:\Users\User\Documents\Visual Studio 2012\Projects\LabaForm4_QueueSort\LabaForm4_QueueSort\LabaForm4_QueueSort.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Новая папка (2)\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\user\documents\visual studio 2012\projects\labaform4_queuesort\labaform4_queuesort\Queue.h(196): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\documents\visual studio 2012\projects\labaform4_queuesort\labaform4_queuesort\MyForm.h(270): warning C4018: >: несоответствие типов со знаком и без знака
+       Link:
+         D:\Новая папка (2)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\Visual Studio 2012\Projects\LabaForm4_QueueSort\Debug\LabaForm4_QueueSort.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\LabaForm4_QueueSort.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Documents\Visual Studio 2012\Projects\LabaForm4_QueueSort\Debug\LabaForm4_QueueSort.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         LabaForm4_QueueSort.vcxproj -> C:\Users\User\Documents\Visual Studio 2012\Projects\LabaForm4_QueueSort\Debug\LabaForm4_QueueSort.exe
+     1>Построение проекта "C:\Users\User\Documents\Visual Studio 2012\Projects\LabaForm4_QueueSort\LabaForm4_QueueSort\LabaForm4_QueueSort.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:10.36

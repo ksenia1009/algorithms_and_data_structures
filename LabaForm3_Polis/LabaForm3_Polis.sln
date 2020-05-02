@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabaForm3_Polis", "LabaForm3_Polis\LabaForm3_Polis.vcxproj", "{AECE48CC-17D9-48C9-8468-0D0AE16A3046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECE48CC-17D9-48C9-8468-0D0AE16A3046}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AECE48CC-17D9-48C9-8468-0D0AE16A3046}.Debug|Win32.Build.0 = Debug|Win32
+		{AECE48CC-17D9-48C9-8468-0D0AE16A3046}.Release|Win32.ActiveCfg = Release|Win32
+		{AECE48CC-17D9-48C9-8468-0D0AE16A3046}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

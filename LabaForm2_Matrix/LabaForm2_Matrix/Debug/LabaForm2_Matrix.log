@@ -1,0 +1,38 @@
+﻿Построение начато 04.12.2018 20:29:47.
+     1>Проект "C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\LabaForm2_Matrix\LabaForm2_Matrix\LabaForm2_Matrix.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp stdafx.cpp
+         MyForm.cpp
+     1>c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\MyForm.h(250): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\MyForm.h(251): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\MyForm.h(252): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\TVector.h(57): warning C4172: возвращение адреса локальной или временной переменной
+                 c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\TVector.h(54): при компиляции функции-члена "int &TVector<M>::operator [](int)" класса шаблон
+                 with
+                 [
+                     M=int
+                 ]
+                 c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\MyForm.h(270): см. ссылку на создание экземпляров функции шаблон при компиляции "int &TVector<M>::operator [](int)"
+                 with
+                 [
+                     M=int
+                 ]
+                 c:\users\ksenia\documents\visual studio 2012\projects\labaform2_matrix\labaform2_matrix\MyForm.h(270): см. ссылку на создание экземпляров класса шаблон при компиляции "TVector<M>"
+                 with
+                 [
+                     M=int
+                 ]
+         stdafx.cpp
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Ksenia\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\LabaForm2_Matrix\Debug\LabaForm2_Matrix.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\LabaForm2_Matrix.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\LabaForm2_Matrix\Debug\LabaForm2_Matrix.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         LabaForm2_Matrix.vcxproj -> C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\LabaForm2_Matrix\Debug\LabaForm2_Matrix.exe
+     1>Построение проекта "C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\LabaForm2_Matrix\LabaForm2_Matrix\LabaForm2_Matrix.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.06
